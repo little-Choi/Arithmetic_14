@@ -1,0 +1,5 @@
+C:/DEV/Arithmetic_14/build/CMakeFiles/Arithmetic.dir
+C:/DEV/Arithmetic_14/build/CMakeFiles/ArithmeticTest.dir
+C:/DEV/Arithmetic_14/build/CMakeFiles/test.dir
+C:/DEV/Arithmetic_14/build/CMakeFiles/edit_cache.dir
+C:/DEV/Arithmetic_14/build/CMakeFiles/rebuild_cache.dir
