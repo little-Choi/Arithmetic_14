@@ -1,20 +1,24 @@
-Start testing: May 12 14:49 대한민국 표준시
+Start testing: May 12 15:48 대한민국 표준시
 ----------------------------------------------------------
 1/1 Testing: ArithmeticTest
 1/1 Test: ArithmeticTest
 Command: "C:/DEV/Arithmetic_14/build/ArithmeticTest.exe"
 Directory: C:/DEV/Arithmetic_14/build
-"ArithmeticTest" start time: May 12 14:49 대한민국 표준시
+"ArithmeticTest" start time: May 12 15:48 대한민국 표준시
 Output:
 ----------------------------------------------------------
 testAddition passed
+testSubtraction passed
+testMultiplication passed
+testDivision passed
+testDivision passed
 All tests passed!
 <end of output>
-Test time =   0.11 sec
+Test time =   0.03 sec
 ----------------------------------------------------------
 Test Passed.
-"ArithmeticTest" end time: May 12 14:49 대한민국 표준시
+"ArithmeticTest" end time: May 12 15:48 대한민국 표준시
 "ArithmeticTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: May 12 14:49 대한민국 표준시
+End testing: May 12 15:48 대한민국 표준시

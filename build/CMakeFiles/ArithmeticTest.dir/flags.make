@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = @CMakeFiles/ArithmeticTest.dir/includes_CXX.rsp
 
-CXX_FLAGS = -g -std=gnu++17 --coverage
+CXX_FLAGS = -std=gnu++17 --coverage
 
